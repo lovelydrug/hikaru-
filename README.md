@@ -6,4 +6,4 @@
 
 <p align="center">upcoming strawpage
 
-<p align="center">*[atabook!](https://forbiddenlove.atabook.org/)*
+*<p align="center">[atabook!](https://forbiddenlove.atabook.org/)*
